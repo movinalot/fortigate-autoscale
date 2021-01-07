@@ -1,6 +1,6 @@
 {
     "name": "fortigate-autoscale-azure-funcapp",
-    "version": "3.0.0",
+    "version": "3.2.0-test.0",
     "description": "FortiGate Autoscale Project - Azure Function App",
     "main": "index.js",
     "scripts": {
